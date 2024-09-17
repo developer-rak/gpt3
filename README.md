@@ -5,13 +5,12 @@
 ### Link :link: https://rak-gpt3.netlify.app/
 ### Link :link: <a target="_blank" href="https://www.figma.com/design/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0-1&node-type=canvas&t=xXYzykL77yeFu2MC-0">Figma Design</a>
 
-## Interface
+## Big Screen Interface
+<img src='imgB.jpg'/>
 
-<img src='imgB.png' />
+## Small Screen Interface
+<img src='imgS.jpg'/>
 
-## Mobile Interface
-
-<img src='imgS.png' />
 
 ## Run Locally
 
